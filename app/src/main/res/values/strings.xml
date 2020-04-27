@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="name">Name</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="calculateBMI">Calculate BMI</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="extremely_underweight">Extremely Underweight</string>
+    <string name="moderately_underweight">Moderately Underweight</string>
+    <string name="underweight">Underweight</string>
+    <string name="normal">Normal\no need for gym</string>
+    <string name="overweight">Overweight</string>
+    <string name="slightly_obese">Slightly Obese</string>
+    <string name="obese">Obese</string>
+    <string name="very_obese">Very Obese</string>
+    <string name="extremely_obese">Extremely Obese</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="normal_map">Normal Map</string>
+    <string name="hybrid_map">Hybrid Map</string>
+    <string name="satellite_map">Satellite Map</string>
+    <string name="terrain_map">Terrain Map</string>
+</resources>
